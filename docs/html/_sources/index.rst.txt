@@ -3,13 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Sphinx-Test's documentation!
+Welcome to Fujiwara's documentation!
 =======================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+
+   /0test/test
+   /1lnowledge/Sphinx
+   /1knowledge/mac_command
+   /1knowledge/command_prompt
+   /2memo/plan
 
 
 Indices and tables
